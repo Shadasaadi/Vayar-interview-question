@@ -3,7 +3,7 @@ This solution makes use of a Dictionary (or Key Value Map),doing so, this soluti
 
 1.at first we declared a dictionary to keep track of all the values
 
-2. second we iterated over the entire array
+2.second we iterated over the entire array
 
 3.then we subtracted the num from the target to search for its pair
 
